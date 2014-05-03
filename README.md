@@ -7,3 +7,4 @@ TODO:
 Need to rewrite CheckParent() to also check grandparents up to start of post.    
 Rewrite and split up the GetComment() Function into smaller functins, and run everything from a main() or __init__()    
 Add MAL API User-Agent when approved.    
+Add error checking
